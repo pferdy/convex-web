@@ -1,5 +1,6 @@
-## Convex Engine
+Convex is a decentralised base layer for building an Internet of Value designed to power open economic systems with groundbreaking lattice technology.  It's an engine for:
+- Self-sovereign, programmable economic systems
+- Decentralised AI and data supply chains
+- Real-time performance for mass global adoption
 
-Convex is a new kind of foundational technology; it's a decentralised engine for building an internet of value designed to enable open economic systems.
-
-This section of `convex.world` is dedicated to exploring the ideas and concepts of open economic systems and how they are implemented in the Convex Engine.
+This section of `convex.world` explains ideas and concepts of open economic systems and how developers can implemented them with the Convex Engine.
